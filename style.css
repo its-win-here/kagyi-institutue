@@ -146,3 +146,21 @@
     border-radius: 10px;
     border: #E5E7EB solid 2px;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.footer a {
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+}
