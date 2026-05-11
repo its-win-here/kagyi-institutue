@@ -6,3 +6,5 @@ Images used in this website are licensed under creative commons.
 
 lecture-hall: Wikimedia commons
 reading: Wannapik
+writing: Needpix.com
+Listening: Supercoloring.com
