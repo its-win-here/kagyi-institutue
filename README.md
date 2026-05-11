@@ -8,3 +8,5 @@ lecture-hall: Wikimedia commons
 reading: Wannapik
 writing: Needpix.com
 Listening: Supercoloring.com
+Speaking: Dreamstimes.com
+All skills: Freepik

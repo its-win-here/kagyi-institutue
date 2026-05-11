@@ -36,7 +36,7 @@
 
 .main {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding: 50px;
     font-size: 30px;
@@ -59,3 +59,62 @@
     cursor: pointer;
     border-radius: 100px;
 }
+
+.thumbnails {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    gap: 100px;
+}
+
+.thumbnail-image {
+    width: 45%;
+    height: auto;
+    border-radius: 10px;
+    border: #3882F6 solid 2px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
+
+.thumbnails > div {
+    flex: 1;
+    text-align: center;
+}
+
+.thumbnails .text {
+    color: #1F2937;
+}
+
+#thumbnail-text1 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#thumbnail-text2 {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.highlight {
+    color: #3882F6;
+}
+
+.thumbnail {
+    font-size: 20px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    padding: 50px;
+    text-align: center;
+    font-size: 24px;
+}
+
+#quote-author {
+    margin-top: 20px;
+    font-size: 18px;
+    font-style: italic;
+}
+
